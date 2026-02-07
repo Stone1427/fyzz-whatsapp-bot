@@ -1,8 +1,8 @@
 const fs = require('fs')
 
 const config = {
-    owner: "638", // Ganti Number Kalian agar bisa mengakses bot
-    botNumber: "628", // Ganti Number Kalian agar bisa mengakses bot
+    owner: "224661108204", // Ganti Number Kalian agar bisa mengakses bot
+    botNumber: "224661108204", // Ganti Number Kalian agar bisa mengakses bot
     setPair: "DAPZYYYY",
     thumbUrl: "https://files.catbox.moe/tlbp3k.jpg",
     session: "sessions",
